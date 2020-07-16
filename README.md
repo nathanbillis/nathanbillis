@@ -1,4 +1,7 @@
+<a href="https://gyazo.com/2121db6640508cb8d5c077683d73b773"><img src="https://i.gyazo.com/2121db6640508cb8d5c077683d73b773.jpg" alt="Image from Gyazo" width="230"/></a>
 ### Hi there 👋
+- 👔 Name: Nathan Billis
+- 😄 Pronouns: He/Him
 
 <!--
 **nathanbillis/nathanbillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
