@@ -1,7 +1,7 @@
 
 ### Hi there 👋
-- 👔 Name: Nathan Billis
-- 😄 Pronouns: He/Him
+👔 Name: Nathan Billis
+😄 Pronouns: He/Him
 
 <!--
 **nathanbillis/nathanbillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
