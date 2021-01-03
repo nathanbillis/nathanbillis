@@ -1,8 +1,10 @@
 
+# Nathan Billis
 ### Hi there 👋
-👔 Name: Nathan Billis
+😄  Pronouns: He/Him
 
-😄 Pronouns: He/Him
+## 📫 How to reach me
+[LinkedIn](https://www.linkedin.com/in/nathanbillis/)
 
 <!--
 **nathanbillis/nathanbillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
