@@ -3,6 +3,8 @@
 ### Hi there 👋
 😄  Pronouns: He/Him
 
+![Nathans's Github Stats](https://github-readme-stats.vercel.app/api?username=nathanbillis&count_private=true&show_icons=true)
+
 ## 📫 How to reach me
 [LinkedIn](https://www.linkedin.com/in/nathanbillis/)
 
