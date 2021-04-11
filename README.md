@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Nathans's Github Stats](https://github-readme-stats.vercel.app/api?username=nathanbillis&count_private=true&show_icons=true)
+
+-->
+
+![](https://github.com/nathanbillis/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/nathanbillis/github-stats/blob/master/generated/languages.svg)
+
