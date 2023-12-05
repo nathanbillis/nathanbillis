@@ -1,6 +1,6 @@
 
 # Hi there 👋, I'm Nathan Billis
-Full Stack Engineer, currently working in York.
+A results-driven Full Stack Engineer with a proven track record in leading cross-functional teams, driving digital transformation, and delivering impactful solutions. Leveraging a diverse skill set encompassing project management, technical expertise, and strategic thinking. Crafting bespoke applications using various technologies including Python, Javascript, Java, PHP, C, HTML & CSS, exploring the boundaries of what can be achieved.
 
 <!--
 **nathanbillis/nathanbillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
